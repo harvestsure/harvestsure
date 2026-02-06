@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sure Harvest 👋
 
-<!--
-**harvestsure/harvestsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer in Quant & AI | C++ / High-performance / Async / Cross-platform
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** C++20, Python, JS/TS, Dart/Flutter
+- **Libs:** Boost.Asio, cpp-httplib, WebSocket++, Bun
+- **Tools:** Docker, CMake, gdb/lldb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- ⭐ ritmex-ai-trader — Multi-agent crypto trading platform
+- ⭐ HTTP/WebSocket async libraries
+- ⭐ AI automation clients
+
+## Contact
+- 📫 sure.yang@example.com
+- 🌐 LinkedIn / Twitter / Website
