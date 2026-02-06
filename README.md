@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sureyang/sureyang/raw/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/harvestsure/harvestsure/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Sure Yang 👋</h1>
