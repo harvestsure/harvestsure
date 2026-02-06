@@ -32,11 +32,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Devs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harvestsure&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harvestsure&layout=compact&theme=dark" />
+  <!-- Cloud / Dev Platforms -->
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
