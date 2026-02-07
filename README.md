@@ -28,7 +28,7 @@
 | **KeenTrader** | Cross-platform trading client with advanced order management | [GitHub](https://github.com/harvestsure/KeenTrader) |
 | **codetrans** | Code conversion / transpiler tools for multiple languages | [GitHub](https://github.com/harvestsure/codetrans) |
 | **quant-trading-system** | High-performance C++/Python framework for algorithmic trading | [GitHub](https://github.com/harvestsure/quant-trading-system) |
-| **coro_http** | Asynchronous coroutine-based HTTP client library in C++ | [GitHub](https://github.com/harvestsure/coro_http) |
+| **coro-http** | Asynchronous coroutine-based HTTP client library in C++ | [GitHub](https://github.com/harvestsure/coro-http) |
 
 ---
 
